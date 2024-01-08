@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    text-shadow: 10px;
+    color: bisque;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+}
